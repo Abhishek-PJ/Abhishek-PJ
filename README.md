@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek Nalatawad
-- 👀 I’m interested in Everything
+- 👀 I’m interested in Investing and Developing webapps
 - 🌱 I’m currently learning BCA
 - 📫 You can reach me at abhia7535@gmail.com
 
