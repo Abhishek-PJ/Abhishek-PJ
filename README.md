@@ -1,13 +1,13 @@
 Hi there, I'm Abhishek Nalatawad! 👋
 
-I'm a passionate web developer and student currently pursuing BCA. I enjoy developing web applications that solve real-world problems.
+I'm a passionate web developer and student currently pursuing MCA. I enjoy developing web applications that solve real-world problems.
 
 🔭 I’m currently working on:
-- Developing a scalable e-commerce web application using React-js.
+- Developing a scalable web applications using MERN.
 - Learning more about full stack development, specially on javascript ecosystem.
 
 🌱 I’m currently learning:
-- Bachelor of Computer Applications (BCA) with a focus on web development and software engineering.
+- Master of Computer Applications (MCA) with a focus on web development and software engineering.
 
 📫 How to reach me:
 - Email: abhia7535@gmail.com
@@ -15,7 +15,7 @@ I'm a passionate web developer and student currently pursuing BCA. I enjoy devel
 
 💼 Skills:
 - Front-end: HTML, CSS (Tailwind CSS), JavaScript (React)
-- Back-end: Django, Mongodb
+- Back-end: Nextjs, Mongodb
 - Version Control: Git, GitHub
 - Tools: Firebase, Redux toolkit and much more
 
