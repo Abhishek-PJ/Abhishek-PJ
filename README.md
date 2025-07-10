@@ -1,41 +1,67 @@
-Hi there, I'm Abhishek Nalatawad! 👋
+# Hi there, I'm Abhishek Nalatawad! 👋
 
-I'm a passionate web developer and student currently pursuing MCA. I enjoy developing web applications that solve real-world problems.
+I'm a web developer and MCA student who enjoys building real-world web applications using the MERN stack and modern tools.
 
-🔭 I’m currently working on:
-- Developing a scalable web applications using MERN.
-- Learning more about full stack development, specially on javascript ecosystem.
+---
 
-🌱 I’m currently learning:
-- Master of Computer Applications (MCA) with a focus on web development and software engineering.
+## 🔭 Currently Working On:
+- A cloud-hosted MERN project called **Placify**, deployed on AWS (EC2, RDS, S3, Cognito)
+- A blockchain-based secure file sharing system 
 
-📫 How to reach me:
-- Email: abhia7535@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishek-nalatawad-565375231/)
+---
 
-💼 Skills:
-- Front-end: HTML, CSS (Tailwind CSS), JavaScript (React)
-- Back-end: Nextjs, Mongodb
-- Version Control: Git, GitHub
-- Tools: Firebase, Redux toolkit and much more
+## 🌱 Learning:
+- Full-stack development with a focus on cloud and security
+- Progressive Web Apps (PWA), Docker, and blockchain basics
 
-🚀 Recent Projects:
-- E-Commerce Web Application: [Live Demo](https://abhishekprojects.online) | [Repository](https://github.com/Abhishek-PJ/Ecommerce)
+---
 
-📚 Interests:
-- Building scalable web applications
-- Open-source contributions
-- Learning new technologies and implementing them
+## 💼 Skills
 
-🎯 Goals:
-- Enhancing my skills in full-stack web development
-- Contributing to meaningful open-source projects
-- Collaborating with passionate developers on innovative projects
+**Frontend:**  
+HTML, CSS (Tailwind), JavaScript, React, Redux
 
-🌟 Let's connect and collaborate on exciting projects together!
+**Backend:**  
+Node.js, Express.js, MongoDB, MySQL, Firebase
 
+**Cloud & Tools:**  
+Git, GitHub, AWS (EC2, S3, RDS, Cognito), Docker, Vercel, Postman
 
-<!---
-Abhishek-PJ/Abhishek-PJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Projects
+
+**Placify**  
+A student placement portal using MERN + AWS  
+[Live](https://placify-xi.vercel.app/) | [Repo](https://github.com/Abhishek-PJ/Placify) *(coming soon)*
+
+**E-Commerce Site**  
+React + Firebase shopping site  
+[Live](https://e-commerce-nine-rho-52.vercel.app/) | [Repo](https://github.com/Abhishek-PJ/Ecommerce)
+
+---
+
+## 📚 Interests
+- Full-stack web development
+- Cloud deployment and DevOps
+- Cybersecurity and blockchain integration
+- Learning and building with new technologies
+
+---
+
+## 🎯 Goals
+- Improve my skills in full-stack and cloud-native development
+- Contribute to open-source 
+- Collaborate with developers on meaningful ideas
+
+---
+
+## 📫 Connect With Me
+
+📧 abhia7535@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-nalatawad-565375231/)  
+🐙 [GitHub](https://github.com/Abhishek-PJ)
+
+---
+
+Thanks for stopping by! 😊
